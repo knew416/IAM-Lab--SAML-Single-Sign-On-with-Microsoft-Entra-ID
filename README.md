@@ -1,5 +1,13 @@
 # SAML Single Sign-On Lab with Microsoft Entra ID
 
+ <p>
+  <img src="https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge" alt="Microsoft Entra ID" />
+  <img src="https://img.shields.io/badge/SAML_2.0-3076BE?style=for-the-badge" alt="SAML 2.0" />
+  <img src="https://img.shields.io/badge/Single_Sign--On-0078D4?style=for-the-badge" alt="Single Sign-On" />
+  <img src="https://img.shields.io/badge/Claims_Mapping-5089F7?style=for-the-badge" alt="Claims Mapping" />
+  <img src="https://img.shields.io/badge/Access_Control-111827?style=for-the-badge" alt="Access Control" />
+</p>
+
 ## Overview
 
 This lab explores SAML-based Single Sign-On (SSO) configuration for a custom enterprise application in Microsoft Entra ID.
